@@ -6,11 +6,11 @@
 	<dict>
 		<key>BuildScript.sh</key>
 		<data>
-		ffAF2Ur3uPwDYudjOpEWb7plF8k=
+		P9qTdcfb34ew98yE77+FTsjPRc8=
 		</data>
 		<key>Headers/FluxMobile-Swift.h</key>
 		<data>
-		o1gc61AQIuSOBzfoDA+jlKsGgWQ=
+		59JmkT6Ka3OC3jiRQ4DYBu6477c=
 		</data>
 		<key>Headers/FluxMobile.h</key>
 		<data>
@@ -20,13 +20,29 @@
 		<data>
 		oPKadwqDZn6IEceFbBzmo7mF/Lg=
 		</data>
-		<key>Modules/FluxMobile.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/FluxMobile.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		n3EbZzYCPbDY+ZYvGpD+1aZd96U=
+		09c8pLJoUDu4EcTKOrbanskgenY=
 		</data>
-		<key>Modules/FluxMobile.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/FluxMobile.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		n3EbZzYCPbDY+ZYvGpD+1aZd96U=
+		3Aoc9RgQsIKczgWNxNk9RL7DaL4=
+		</data>
+		<key>Modules/FluxMobile.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		ueM3Q/6seu1nC/XaRCwOJByc2Qw=
+		</data>
+		<key>Modules/FluxMobile.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		09c8pLJoUDu4EcTKOrbanskgenY=
+		</data>
+		<key>Modules/FluxMobile.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		3Aoc9RgQsIKczgWNxNk9RL7DaL4=
+		</data>
+		<key>Modules/FluxMobile.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		ueM3Q/6seu1nC/XaRCwOJByc2Qw=
 		</data>
 		<key>Modules/FluxMobile.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +54,7 @@
 		</data>
 		<key>Modules/FluxMobile.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		J382jIS3sfof4W49aDXgD6pN5gk=
+		ibjLOVtBKrAb1nXnwKs5SXCGrQ4=
 		</data>
 		<key>Modules/FluxMobile.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -50,7 +66,7 @@
 		</data>
 		<key>Modules/FluxMobile.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		J382jIS3sfof4W49aDXgD6pN5gk=
+		ibjLOVtBKrAb1nXnwKs5SXCGrQ4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,14 +79,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BqYMjEHbGJBWIisPVBiKXB+LOnhwlLnnNNFvyj/XTSA=
+			IvNMRFfVz5jNcV85iNDZgd4Hftw/l7k8KGrECb3mC6I=
 			</data>
 		</dict>
 		<key>Headers/FluxMobile-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aFjaieL6y92WrF5kr/B+u8LjWpT1zU5ZpnVMsW/67Sg=
+			ImBgZLEzIWyeG8fVZfLIzCwSXRlSyFpeQ6dfGUDbFDU=
 			</data>
 		</dict>
 		<key>Headers/FluxMobile.h</key>
@@ -80,18 +96,46 @@
 			d8m+11eFJH7B/VrfppXe+9ZqlTOm/VgCXzHBjjf1EGI=
 			</data>
 		</dict>
-		<key>Modules/FluxMobile.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/FluxMobile.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zHisiOgE+9mIopAspuU5lAbqwem4ZuXRpcfc3QP28RI=
+			KDJnCu2l3R8bnI/jXwPr8e6ruF8xkgvQ4IB+IHUtav8=
 			</data>
 		</dict>
-		<key>Modules/FluxMobile.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/FluxMobile.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zHisiOgE+9mIopAspuU5lAbqwem4ZuXRpcfc3QP28RI=
+			pGJeF3PD+binoFDscVhLJt3bu2QMfdUrV7487r6p7tQ=
+			</data>
+		</dict>
+		<key>Modules/FluxMobile.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gYjLEsgzEVUpkKVcl7qXHWOrnRpgbcQKvg4/dQMtMkE=
+			</data>
+		</dict>
+		<key>Modules/FluxMobile.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KDJnCu2l3R8bnI/jXwPr8e6ruF8xkgvQ4IB+IHUtav8=
+			</data>
+		</dict>
+		<key>Modules/FluxMobile.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pGJeF3PD+binoFDscVhLJt3bu2QMfdUrV7487r6p7tQ=
+			</data>
+		</dict>
+		<key>Modules/FluxMobile.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gYjLEsgzEVUpkKVcl7qXHWOrnRpgbcQKvg4/dQMtMkE=
 			</data>
 		</dict>
 		<key>Modules/FluxMobile.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -112,7 +156,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEnCHPj2HYeCaDNqhLXCa1c22AieaVJz/F9slI9ushE=
+			V6rHnioet+UzQhmogkNq91NEwIN29SCIx+nApKlo7t8=
 			</data>
 		</dict>
 		<key>Modules/FluxMobile.swiftmodule/x86_64.swiftdoc</key>
@@ -133,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEnCHPj2HYeCaDNqhLXCa1c22AieaVJz/F9slI9ushE=
+			V6rHnioet+UzQhmogkNq91NEwIN29SCIx+nApKlo7t8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
