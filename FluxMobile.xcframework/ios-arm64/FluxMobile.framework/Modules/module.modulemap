@@ -1,0 +1,11 @@
+framework module FluxMobile {
+  umbrella header "FluxMobile.h"
+
+  export *
+  module * { export * }
+}
+
+module FluxMobile.Swift {
+    header "FluxMobile-Swift.h"
+    requires objc
+}
